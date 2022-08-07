@@ -1,1 +1,1 @@
-# superhero-stats-randomizer-api
+JavaScript Tutorial on handling APIs
